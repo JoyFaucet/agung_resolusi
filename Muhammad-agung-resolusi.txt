@@ -1,0 +1,5 @@
+Salam kenal nama saya Muhammad agung pramana
+
+Resolusi saya :
+  - Membuat website menggunakan framework javascript 
+  - Bekerja di start up
