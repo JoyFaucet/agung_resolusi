@@ -3,7 +3,11 @@ RENCANA KONTEN AGUNG
 - Javascript
   * ES6
   * Framework JavaScript
+    ^ Vue
+    ^ React
 - Fundamental data structure
 - PHP Framework
+  ^ Laravel
 - Interview
 - Vlogs
+- Python
