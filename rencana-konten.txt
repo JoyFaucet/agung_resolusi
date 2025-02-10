@@ -1,6 +1,8 @@
 RENCANA KONTEN AGUNG
 
 - Javascript
+  * ES6
+  * Framework JavaScript
 - PHP Framework
 - Interview
 - Vlogs
