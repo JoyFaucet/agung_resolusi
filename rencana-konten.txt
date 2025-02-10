@@ -3,6 +3,7 @@ RENCANA KONTEN AGUNG
 - Javascript
   * ES6
   * Framework JavaScript
+- Fundamental data structure
 - PHP Framework
 - Interview
 - Vlogs
